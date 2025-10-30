@@ -240,8 +240,7 @@
         },
         {
             "ID": "18",
-            "Code": "MCQ0018",
-            "Unit": "Unit1",
+            "Code": "MCQ0018",            "Unit": "Unit1",
             "Part": "Part1",
             "Type": "MCQ",
             "Question": "The external message that conveys the organization's image is a component of:",
